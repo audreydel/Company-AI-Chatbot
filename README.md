@@ -1,4 +1,4 @@
-# Sweng 2024 Group 6 Project 
+# Company AI Chatbot
 Intelligent Information Ecosystem (I2ECO): A Multi-Agent Crawler System with Access Controlled LLMs and Chat Support
 
 ## Building and running instructions
