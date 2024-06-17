@@ -1,4 +1,4 @@
-# Company AI Chatbot
+# 🤖 Company AI Chatbot
 Intelligent Information Ecosystem (I2ECO): A Multi-Agent Crawler System with Access Controlled LLMs and Chat Support
 
 ## Building and running instructions
